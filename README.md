@@ -1,15 +1,17 @@
-# Fedora COPR - `VSCode` - `Visual Studio Code` editor
+# Fedora COPR - VSCode - Visual Studio Code editor
 
-### _Sources for build RPM package by Fedora COPR_
+_Sources for build RPM package by Fedora COPR_
 
-## Links
+### Links
+---
 
 * [Fedora COPR](https://copr.fedorainfracloud.org/coprs/binlab/vscode/)
 * [SPECs Repo](https://github.com/binlab/copr-vscode)
 * [VSCode Sources](https://github.com/Microsoft/vscode)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-## Installation
+### Installation
+---
 
 * On Fedora
 
